@@ -21,7 +21,7 @@ Note: I am **NOT RESPONSIBLE** if you loose or send the funds to the wrong addre
 
 *Also Thanks to GoinGecko for thier api to provide ltc rates to convert litoshis to usd and vice versa*
 
-**My discord ID**: ricky53382
+**My Discord ID**: ricky53382
 **you can contact me for your Queries!**
 
 
