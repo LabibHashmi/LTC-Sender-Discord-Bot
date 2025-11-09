@@ -1,0 +1,5 @@
+{
+  "license_key": "Enter_Your_License",  # License
+  "page_sleep": 12, # Page Load
+  "redirect_attempts": 50  # After Captcha
+}
