@@ -11,10 +11,19 @@ To use this bot you first need a few things:
 
 To get the private key of your wallet click on the three dots and view private keys
 
-or you can use https://privatekeyfinder.io
+or you can use to find your private key
+https://privatekeyfinder.io
 
 
-Note: I am **NOT RESPONSIBLE** if you loose or send the funds to the wrong address and I'm not the owner of privatekeyfinder , never share your privatekey to someone, **ITS YOUR RESPONSIBILITY TO TAKE CARE OF YOUR PRIVATE KEY**
+Note: I am **NOT RESPONSIBLE** if you loose or send the funds to the wrong address and I'm not the owner of privatekeyfinder , never share your privatekey to someone, **ITS YOUR RESPONSIBILITY TO TAKE CARE OF YOUR PRIVATE KEY!**
 
 *Thanks to Blockcypher for providing the API For Ltc Transaction and getting balance information*
-*Thanks to GoinGecko for thier api to provide ltc rates to convert litoshis to usd and vice versa*
+
+*Also Thanks to GoinGecko for thier api to provide ltc rates to convert litoshis to usd and vice versa*
+
+**My discord ID**: ricky53382
+**you can contact me for your Queries!**
+
+
+__Donations are accepted and highly appreciated if you wanna donate send me some ltc to this address :D :__
+LfNUGoS77mpGNHTETC2DKA2y4xVGe1yt1m
