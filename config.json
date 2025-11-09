@@ -1,5 +1,8 @@
 {
-  "license_key": "Enter_Your_License",  # License
-  "page_sleep": 12, # Page Load
-  "redirect_attempts": 50  # After Captcha
+    "bot_token" : "your bot token here",
+    "owner_ids" : [
+        1174202490632294420
+    ],
+    "private_key" : "your wallet's private key here",
+    "blockcypher_token" : "Your Blockcypher token here"
 }
