@@ -24,7 +24,7 @@ Note: I am **NOT RESPONSIBLE** if you loose or send the funds to the wrong addre
 **My Discord ID**: ricky53382
 **you can contact me for your Queries!**
 
-
+Goals:
 
 **10 Stars For LTC Sender V2**
 
